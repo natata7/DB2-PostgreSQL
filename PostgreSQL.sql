@@ -91,11 +91,11 @@ having year = 2010;
 /*
 A:
 
-540	    "North America"	    2010
-35	    "Oceania"	        2010
-4133	"Asia"	            2010
-1015	"Africa"	        2010
-723	    "Europe"	        2010
-397	    "South America"	    2010
+540	    	"North America"	    	2010
+35	    	"Oceania"	        2010
+4133		"Asia"	            	2010
+1015		"Africa"	        2010
+723	    	"Europe"	        2010
+397	    	"South America"	    	2010
 
 */
